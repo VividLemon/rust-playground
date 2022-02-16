@@ -19,7 +19,7 @@ const state = () => ({
       values: [
         { id: 1, value: 'G', color: 'success', number: 0.6 },
         { id: 2, value: 'Y', color: 'success', number: 0.6 },
-        { id: 3, value: 'X', color: 'success', number: 0.6 },
+        { id: 3, value: 'X', color: 'error', number: 1 },
         { id: 4, value: 'X', color: 'error', number: 1 },
         { id: 5, value: 'W', color: 'error', number: 1 }
       ]
